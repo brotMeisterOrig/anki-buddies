@@ -1,0 +1,5 @@
+.claude/
+anki-addon/anki_buddy_board/user_files/*
+!anki-addon/anki_buddy_board/user_files/.gitkeep
+__pycache__/
+*.ankiaddon
